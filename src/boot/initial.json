@@ -1,0 +1,43 @@
+[
+    {
+        "id": "swahilifuket",
+        "label": "Created",
+        "color":"hsl(66.40610987699625, 100%, 90%)",
+        "taskList": [
+            {
+                "id":"abcxyz",
+                "title": "Hire more people",
+                "description": "Grow the TEAM !"
+            }
+        ]
+    },
+    {
+        "id": "swahilifuket11",
+        "label": "In Process",
+        "color":"hsl(233.38850872190199, 100%, 90%)",
+        "taskList": [
+            {
+                "id":"abcxyz22",
+                "title": "Review Rishabh's assignment",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": "swahilifuket33",
+        "label": "Completed",
+        "color":"hsl(133.38850872190199, 100%, 90%)",
+        "taskList": [
+            {
+                "id":"abcxyz33",
+                "title": "Send An assignment",
+                "description": "Send an assignment to test Rishabh's frontend skills"
+            },
+            {
+                "id":"abcxyz0",
+                "title": "Video Call with Rishabh",
+                "description": "Set a Video Call With Rishabh"
+            }
+        ]
+    }
+]
